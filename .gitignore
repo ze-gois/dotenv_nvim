@@ -1,0 +1,8 @@
+configure/tt.*
+configure/.tests
+configure/doc/tags
+configure/debug
+configure/.repro
+configure/foo.*
+configure/*.log
+configure/data

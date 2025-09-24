@@ -1,0 +1,3 @@
+[submodule "lazy"]
+	path = lazy
+	url = git@github.com:LazyVim/LazyVim
