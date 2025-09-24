@@ -1,0 +1,1 @@
+# dotenv_nvim
